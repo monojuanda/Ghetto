@@ -1,0 +1,14 @@
+SMAP
+RegistrarEmpleados_jsp.java
+JSP
+*S JSP
+*F
++ 0 RegistrarEmpleados.jsp
+RegistrarEmpleados.jsp
++ 1 Navbar.jsp
+Navbar.jsp
+*L
+1,18:50
+5#1,122:68
+18#0,91:189
+*E

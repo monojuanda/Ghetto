@@ -1,0 +1,320 @@
+@font-face {
+    font-family: "DK";
+    font-family: "Albondigas";
+    src: url("../fonts/DK.ttf");
+    src: url("../fonts/Albondigas.ttf");
+}
+
+.page-item.active .page-link.colores{
+    background-color: #982427;
+    border-color: #982427;
+}
+
+.l-sb{
+  font-weight: bold;
+}
+
+.tama-letra{
+    font-size:12px;
+}
+
+
+
+/*Menú*/
+.m{
+  background-color: #0C0C0C;
+  color: #FFFFFF;
+  border-radius: 0px;
+}
+
+.d{
+  color: #FFFFFF;
+}
+
+.d:active{
+  background-color: #0C0C0C;
+}
+
+
+
+/*banner*/
+.banner{
+    background-image: url(../imagenes/banner.png);
+    width: 100%;
+    height: 20vh;
+    background-size: 100% 100%;
+    background-position: center center;
+}
+/*Navbar*/
+.mynavbar{
+    width: 100%;
+    background-color: #0C0C0C;
+    font-size: 15px;
+}
+
+.sticky.is-sticky {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+}
+
+.section1{
+    width: 100%;
+    height: 110vh;
+    background-image: url(../imagenes/fondo.png);
+    background-size: 100% 100%;
+}
+
+.section2{
+    width: 100%;
+    height: 110vh;
+    background:#f1e6e6;
+}
+
+.myhr{
+    margin-top: -2rem;
+    height: 5px;
+    border-top: 2px solid rgba(152, 36, 39,0.6);
+}
+
+.bg-overlay{
+    width: 100%;
+    height: 110vh;
+    background-color: rgba(255, 0, 0,0.3);
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 110vh;
+    flex-direction:column;
+}
+
+.imagen{
+    width: 277px;
+    height: 200px;
+    margin-top: 35px;
+}
+
+.myitem{
+    color: #982427!important;
+}
+
+.fondo1{
+    background-image: url(../imagenes/fondo.png);
+    background-size:  cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: #BBBABA;
+    background-attachment: fixed;
+
+}
+
+
+.thead{
+  color: #FFFFFF;
+}
+
+.myh{
+    color:#FFFFFF;
+    margin-bottom: 3rem!important;
+    text-align: center;
+    text-shadow: 0px 0px 4px #0C0C0C;
+}
+
+.myh1{
+   font-weight: bold;
+    color:#0C0C0C;
+}
+
+.myh11{
+    text-align: justify;
+    color:#0C0C0C;
+    /*text-shadow: 0px 0px 4px #0C0C0C;*/
+    margin-bottom: 3rem!important;
+}
+
+/*Botones*/
+.btn-wh{
+    background-color: #FFFFFF;
+}
+
+.btn-bl{
+    background-color: #0C0C0C;
+}
+
+.btn-re{
+    background-color: #982427;
+}
+
+.btn-color{
+    font-weight: bold;
+    background-color: #982427;
+    color: #FFFFFF;
+    margin-bottom: 35px;
+}
+
+.color-button{
+    font-weight: bold;
+    background-color: #982427;
+    color: #FFFFFF;
+}
+
+.btn-color1{
+    margin:0;
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.modal-center{
+    margin: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.button-principal{
+    margin:0;
+    width:100%;
+    text-align: center;
+}
+
+.btn-mod{
+   font-weight: bold;
+   background-color: #982427;
+   color: #FFFFFF;
+}
+
+.btco{
+  background: #982427;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+.btcon{
+  background: #982427;
+  color: #FFFFFF;
+}
+
+.btn-border{
+    border:2px solid #982427;
+}
+
+/*Etiquetas h*/
+.myh2{
+    font-weight: bold;
+    color: #982427;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+
+
+.tableTT{
+    color: #982427;
+}
+
+.mycheck{
+    font-weight: bold;
+}
+
+.h{
+  color: #FFFFFF;
+}
+
+/*Modal*/
+
+.modal-header, .close {
+      background-color: #982427;
+      color: #0C0C0C !important;
+      text-align: center;
+      font-size: 20px;
+  }
+
+.mc{
+  border-radius: 10px;
+  /*width: 80vh;*/
+}
+
+  /* .modal-footer {
+      background-color: #f9f9f9;
+  } */
+
+.items{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.header-app{
+    margin: 0;
+    margin-left: 325px;
+    text-align: center;
+}
+
+.cont-table{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.carusel{
+    width: 100%;
+    height: 100vh;
+}
+
+.margin{
+    margin-left: 10px;
+}
+
+.labmuj{
+    margin-left: 30px;
+    margin-top:0.45rem;
+}
+
+.labhom{
+    margin-top:0.45rem;
+}
+
+.radio{
+    margin-top: 0.9rem;
+}
+
+.tamb{
+    width: 33.75px;
+    height: 31px;
+}
+
+.prev-at, .prev-de{
+    height:500px;
+}
+
+.space{
+    margin-top:15px;
+}
+
+.color{
+    color:#982427;
+    margin-top: 15px;
+}
+
+.color:hover{
+    color:#b42024;
+}
+
+.crud{
+    margin-top: 15px;
+}
+
+.separador{
+    border-radius:0px;
+    border-right: 2px solid black;
+}
+
+.imagen1{
+  max-width: 100%;
+  height: auto;
+}

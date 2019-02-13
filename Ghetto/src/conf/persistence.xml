@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+  <persistence-unit name="GhettoPU" transaction-type="RESOURCE_LOCAL">
+    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+    <class>Controlador.Modelo.Pedidos</class>
+    <class>Controlador.Modelo.Proveedores</class>
+    <class>Controlador.Modelo.Invmujer</class>
+    <class>Controlador.Modelo.Clientes</class>
+    <class>Controlador.Modelo.InvHombre</class>
+    <class>Controlador.Modelo.Empleados</class>
+    <class>Controlador.Modelo.Contactos</class>
+    <class>Controlador.Modelo.ContraEmpleados</class>
+    <class>Controlador.Modelo.ContraClientes</class>
+    <class>Controlador.Modelo.Ventas</class>
+    <exclude-unlisted-classes>false</exclude-unlisted-classes>
+    <properties>
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/ghetto?zeroDateTimeBehavior=convertToNull"/>
+      <property name="javax.persistence.jdbc.user" value="1599195"/>
+      <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
+      <property name="javax.persistence.jdbc.password" value=""/>
+    </properties>
+  </persistence-unit>
+</persistence>

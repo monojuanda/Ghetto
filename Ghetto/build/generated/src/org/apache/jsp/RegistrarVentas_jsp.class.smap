@@ -1,0 +1,22 @@
+SMAP
+RegistrarVentas_jsp.java
+JSP
+*S JSP
+*F
++ 0 RegistrarVentas.jsp
+RegistrarVentas.jsp
++ 1 Navbar.jsp
+Navbar.jsp
+*L
+5,18:49
+5#1,29:67
+34,14:97
+47,86:111
+133,2:198
+134,19:200
+153,2:220
+154,3:222
+157,2:225,3
+159,145:231
+22#0,67:375
+*E

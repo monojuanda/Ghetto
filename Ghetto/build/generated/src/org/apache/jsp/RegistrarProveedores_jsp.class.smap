@@ -1,0 +1,14 @@
+SMAP
+RegistrarProveedores_jsp.java
+JSP
+*S JSP
+*F
++ 0 RegistrarProveedores.jsp
+RegistrarProveedores.jsp
++ 1 Navbar.jsp
+Navbar.jsp
+*L
+5,17:49
+5#1,122:66
+21#0,121:187
+*E

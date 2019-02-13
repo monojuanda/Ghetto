@@ -1,0 +1,14 @@
+SMAP
+RegistrarClientes_jsp.java
+JSP
+*S JSP
+*F
++ 0 RegistrarClientes.jsp
+RegistrarClientes.jsp
++ 1 Navbar.jsp
+Navbar.jsp
+*L
+5,18:49
+5#1,122:67
+22#0,100:188
+*E

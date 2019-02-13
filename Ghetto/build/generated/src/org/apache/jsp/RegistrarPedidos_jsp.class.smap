@@ -1,0 +1,22 @@
+SMAP
+RegistrarPedidos_jsp.java
+JSP
+*S JSP
+*F
++ 0 RegistrarPedidos.jsp
+RegistrarPedidos.jsp
++ 1 Navbar.jsp
+Navbar.jsp
+*L
+5,19:49
+5#1,29:68
+34,14:98
+47,86:112
+133,2:199
+134,19:201
+153,2:221
+154,3:223
+157,2:226,3
+159,145:232
+23#0,75:376
+*E

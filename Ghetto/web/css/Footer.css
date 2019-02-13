@@ -1,0 +1,110 @@
+/*Footer*/
+
+footer{
+    background-color: #0C0C0C;
+    color: #FFFFFF;
+    bottom: 0;
+    position: relative;
+    width: 100%;
+    height: 36vh;
+    text-align: center;
+}
+
+.icono{
+  margin: 0;
+  padding: 0;
+  opacity: 0.4;
+  height: 50px;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+
+.Pagos{
+  width: 100%;
+  height: 10vh;
+  /* background: white; */
+}
+
+
+
+/*Redes sociales*/
+
+.fila{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 45px;
+  /* background: pink; */
+  margin-top: 65px;
+  
+}
+
+.imgicon1{
+  height: 35px;
+  opacity: 0.6;
+}
+
+.imgicon2{
+  height: 35px;
+  margin-left:10px;
+  opacity: 0.6;
+}
+
+.imgicon3{
+  height: 35px;
+  margin-left:8px;
+  opacity: 0.6;
+}
+
+.imgicon4{
+  height: 45px;
+  margin-left: 4px;
+  opacity: 0.6;
+}
+
+.imgicon5{
+  height: 45px;
+  opacity: 0.6;
+}
+
+.Redes{
+  width: 50%;
+  height: 24vh;
+  /* background: blue; */
+  float: right;
+}
+/* Final */
+
+.Personal{
+  margin-top: 6px;
+  width: 50%;
+  height: 24vh;
+  /* background: red; */
+  float: left;
+  border-right: 2px solid white;
+}
+
+.distan{
+  margin-left: 20px;
+}
+
+
+.cor{
+  margin-left: 80px;
+  margin-top: 30px;
+}
+
+li{
+  list-style: none;
+  text-align:justify;
+  margin-bottom: 5px;
+}
+
+a.contenido{
+  color: white;
+}
+
+a.contenido:hover{
+  color: #982427;
+  text-decoration: none;
+}
